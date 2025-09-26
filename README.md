@@ -1,4 +1,4 @@
-# ARQUIPY1_S1_2025
+# Proyecto 01 Arqui 2025
 
 ## Name
 Calculadora Multibase Avanzada 
